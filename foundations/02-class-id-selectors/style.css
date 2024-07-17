@@ -1,0 +1,21 @@
+.alert-text {
+    background-color: #F3329F;
+    font-family: "Verdana", "DeJaVu Sans", sans-serif;
+}
+
+.blue-text-36 {
+    color: #3259F3;
+    font-size: 36px;
+}
+#font-24 {
+    font-size: 24px;
+}
+
+#font-24-bold {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.green-b{
+    background-color: #46EE5C;
+}
